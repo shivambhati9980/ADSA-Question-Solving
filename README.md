@@ -2,8 +2,8 @@
 
 
 ## ARRAY
-[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1747360783/)
-[26. Remove Duplicates from Sorted Array]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ )  
+1. [Two Sum](https://leetcode.com/problems/two-sum/submissions/1747360783/)
+2. [Remove Duplicates from Sorted Array]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ )  
 
 
 
