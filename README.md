@@ -20,5 +20,11 @@
 ## SLIDING WINDOW
 
 ## BINARY SEARCH:
+1. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1790801807/)
+2. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
 
 ## LINKED LIST:
+1. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1790804847/)
+3. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1790805523/)
